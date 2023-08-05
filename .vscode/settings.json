@@ -2,9 +2,5 @@
 	"dart.flutterSdkPath": "~/flutter",
 	"terminal.integrated.env.linux": {
 		"PATH": "~/flutter/bin/:${env:PATH}",
-	},
-	"dart.flutterRunLogFile": "logs/flutter_run.txt",
-	"dart.vmServiceLogFile": "logs/observatory.txt",
-	"dart.extensionLogFile": "logs/extension.txt",
-	
+	}
 }

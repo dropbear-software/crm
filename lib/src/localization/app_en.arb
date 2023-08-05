@@ -1,0 +1,6 @@
+{
+  "appTitle": "dropbear_crm",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
